@@ -5,7 +5,7 @@ chardet==4.0.0
 charset-normalizer==2.0.7
 colorama==0.4.4
 coloredlogs==15.0.1
-guessit==3.4.1
+guessit==3.4.3
 humanfriendly==10.0
 idna==3.3
 inflect==5.3.0
